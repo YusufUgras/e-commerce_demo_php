@@ -33,19 +33,4 @@ Frontend: HTML, CSS, JavaScript
 
 Ekstra: Responsive tasarım
 
-📦 Kurulum
-
-Repoyu bilgisayarına klonla:
-
-git clone https://github.com/KULLANICI_ADI/eticaret-php.git
-
-
-config.php içinde veritabanı ayarlarını düzenle.
-
-MySQL veritabanını oluştur → database.sql dosyasını içe aktar.
-
-Sunucuyu çalıştır (ör. XAMPP, Laragon, MAMP).
-
-Tarayıcıda http://localhost/proje-klasoru adresine git.
-
 
